@@ -1,0 +1,6 @@
+# Other
+*.pyc
+*.exe
+.venv/
+.idea/
+.ipynb_checkpoints/
